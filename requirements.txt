@@ -1,0 +1,5 @@
+streamlit
+llama-index
+llama-index-llms-deepseek
+llama-index-embeddings-huggingface
+python-dotenv
